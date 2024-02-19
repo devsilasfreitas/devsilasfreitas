@@ -1,6 +1,7 @@
 ## Olá, eu sou Silas Silva de Freitas
 
 - 🥉Bronze na OBMEP
+- 🥈Prata na CUCo
 - 💻Informática para Internet 2/3
 - 💼À procura de emprego...
 - 🤔 Sempre estudando e me desafiando...
@@ -16,6 +17,8 @@
   <img align="center" alt="Silas-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Silas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Silas-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Silas-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="Silas-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   
   <br><br>
 
