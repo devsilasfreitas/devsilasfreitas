@@ -23,4 +23,5 @@
   <br><br>
 
    <a href="https://instagram.com/silas_sf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="www.linkedin.com/in/silas-silva-de-freitas" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
