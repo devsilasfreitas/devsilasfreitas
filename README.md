@@ -8,7 +8,7 @@
 <br><br>
 ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsilasfreitas&theme=radical&show_icons=true)  
 
-### Estudando:
+### Tech Stack:
 
 <div style="display: inline_block"><br> 
   
@@ -24,7 +24,7 @@
   <img align="center" alt="Silas-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Silas-KOTLIN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Silas-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" />
-  <img align="center" alt="Silas-NEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg" />
+  <img align="center" alt="Silas-NEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
   
   <br><br>
 
