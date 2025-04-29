@@ -2,7 +2,7 @@
 
 - 🥉Bronze na OBMEP
 - 🥈Prata na CUCo
-- 💻Informática para Internet 2/3
+- 💻Informática para Internet 3/3
 - 💼À procura de emprego...
 - 🤔 Sempre estudando e me desafiando...
 <br><br>
